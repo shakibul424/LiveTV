@@ -1,0 +1,6 @@
+#EXTM3U
+#EXT-X-VERSION:4
+#EXT-X-INDEPENDENT-SEGMENTS
+#EXT-X-STREAM-INF:AUDIO="ad_01"
+https://food-dlvr-ott.akamaized.net/primary/3/7bc4c0346616426e806fa3b79ca70ca6/index_12.m3u8
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="ad_01",NAME="Hindi",LANGUAGE="hin",URI="https://food-dlvr-ott.akamaized.net/primary/3/7bc4c0346616426e806fa3b79ca70ca6/index_9_0.m3u8"
